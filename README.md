@@ -50,7 +50,7 @@
 
 ------------------------
 
-github address : [Hwang-Haein][github]   
+instagram address : [los8_haenn][instagram]   
 
-[github]:http://github.com/Hwang-Haein   
+[instagram]:https://www.instagram.com/los8_haenn/  
 
